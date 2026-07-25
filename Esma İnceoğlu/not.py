@@ -35,3 +35,6 @@
 #--------------------------
  #none null anlamındadır boş demektri bir veri trüdür
 
+
+#not:karmaşık bir sayıyı başka veri türüne (float,int ...)dönüştüremeyiz
+
