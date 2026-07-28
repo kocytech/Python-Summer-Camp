@@ -54,12 +54,11 @@ print(False or True)
 print(not True)
                            
 print("----Karşılaştırma Operatörler----")
-
 #* ==: eşit mi operatörü
 #* >: büyük mü operatörü
 #* <: küçük mü operatörü
-#* >=: büyük veya eşit mi operatörü
-#* <=: küçük veya eşit mi operatörü
+#* >=: büyük ya da eşit mi operatörü
+#* <=: küçük ya da eşit mi operatörü
 #* !=: eşit değil mi operatörü 
 
 print("4 > 2 =" , (4 > 2))
