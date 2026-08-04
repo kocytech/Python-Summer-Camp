@@ -4,7 +4,7 @@ sayi2 = 5
 if sayi1>sayi2:
     print("Sayi1 daha büyüktür")
 elif sayi1==sayi2:
-    print("Sayi1 sayi2'ye eşittit")
+    print("Sayi1 sayi2'ye eşittir")
 else:
     print("Sayi1 daha küçüktür")
 
@@ -15,4 +15,3 @@ y = bool(7)
 print(x,y)
 print(type(x),type(y))
 # Boş string hariç True, 0 hariç true döner
-
