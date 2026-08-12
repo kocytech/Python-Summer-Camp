@@ -5,6 +5,6 @@
 # Tekli Yorum Satırı # ile yapılır
 # Çoklu Yorum Satırı """ ile yapılır
 
-# Pythonda tip yoktur atanan değer dşrek değişkenin tipi olur
+# Pythonda tip yoktur atanan değer direk değişkenin tipi olur
 
 # Bir dizide(listede,sette,tuplede...) karışık veri türleri(string,int...) kullanılabilir
