@@ -1,0 +1,1 @@
+print("geç olsun güc olmasıııııın")
