@@ -1,1 +1,1 @@
-print("gec olsun guc olmasiiiin da")
+print("gec olsun guc olmasiiin da")
